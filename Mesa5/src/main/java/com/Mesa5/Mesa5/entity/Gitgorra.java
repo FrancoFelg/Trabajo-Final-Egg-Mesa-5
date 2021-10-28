@@ -9,5 +9,5 @@ public class Gitgorra {
 	@Id
 	private String id;
 	private Boolean odioPorGit = true;
-	
+	private Boolean conocimiento = true;
 }
