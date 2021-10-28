@@ -4,9 +4,10 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 @Entity
-public class Usuario {
+public class Gitgorra {
 
 	@Id
 	private String id;
+	private Boolean odioPorGit = true;
 	
 }
